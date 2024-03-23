@@ -1,4 +1,4 @@
-#counter - Scrimba
+# counter - Scrimba
 
 Quick start:
 
